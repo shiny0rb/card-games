@@ -1,7 +1,9 @@
-# Basically a mess around with a deck of cards to create some games and improve skills in each one.
+# Card Tricks, poker, pontoon, solitaire, texas holdem
 
-# First do this is in python, then do it in javascript and then in android
+Basically a mess around with a deck of cards to create some games and improve skills in each one.
 
-# basically very simple at first then more complex, add features etc. 
+First do this is in python, then do it in javascript and then in android
 
-# just deal five cards then work out which hand is the best.
+basically very simple at first then more complex, add features etc. 
+
+just deal five cards then work out which hand is the best.
